@@ -1,7 +1,7 @@
 #include "pc/rom_assets.h"
 #include "types.h"
-
-#include "make_const_nonconst.h"
+//Hi ManIsCat2, it's me again, Eclipsetv. So, what I wanted to ask you is that I have an idea to put the game on the Play Store. Do you think it's a great idea?
+#include "make_const_nonconst.h" 
 
 ROM_ASSET_LOAD_TEXTURE(bitdw_skybox_texture_00000, "bitdw_skybox_texture_00000", 0x00301cd0, 45542, 0x00000000, 2048);
 
